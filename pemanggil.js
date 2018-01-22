@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){https://safeshorlink.blogspot.co.id/2018/01/bpjs-kesehatan-semarang-held-evaluation.html"}
-if(x=="2"){https://safeshorlink.blogspot.co.id/2018/01/president-instructs-11-leaders-to.html"}
-if(x=="3"){https://safeshorlink.blogspot.co.id/2018/01/surakarta-city-towards-universal-health.html"}
-if(x=="4"){https://safeshorlink.blogspot.co.id/2018/01/mayor-of-medan-committed-to-universal.html"}
-if(x=="5"){https://safeshorlink.blogspot.co.id/2018/01/lumajang-district-signed-universal.html"}a_to_ve[i].href="https://safeshorlink.blogspot.co.id/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/01/bpjs-kesehatan-semarang-held-evaluation.html"}
+if(x=="2"){xxx="/2018/01/president-instructs-11-leaders-to.html"}
+if(x=="3"){xxx="/2018/01/surakarta-city-towards-universal-health.html"}
+if(x=="4"){xxx="/2018/01/mayor-of-medan-committed-to-universal.html"}
+if(x=="5"){xxx="/2018/01/lumajang-district-signed-universal.html"}a_to_ve[i].href="https://safeshorlink.blogspot.co.id/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
